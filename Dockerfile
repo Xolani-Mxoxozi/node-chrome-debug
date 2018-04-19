@@ -1,6 +1,5 @@
 FROM python
 FROM kineticskunk/node-chrome:3.11.1-toolium
-FROM selenium/node-chrome:3.5.3-boron
 
 USER root
 
